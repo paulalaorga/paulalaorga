@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Ruby
 - 💞️ I’m looking to collaborate on any project on earth
 - 📫 How to reach me paulalaorga@gmail.com
-- 😄 Pronouns: she/her
 
 <!---
 paulalaorga/paulalaorga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
