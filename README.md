@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paulalaorga
-- 👀 I’m interested in everything front-end development
-- 🌱 I’m currently learning Ruby
-- 💞️ I’m looking to collaborate on any project on earth
+- 👀 I’m interested in Front-end development
+- 🌱 I’m currently growing on React, Next.js
+- 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me paulalaorga@gmail.com
 
 <!---
