@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paulalaorga
-- 👀 I’m interested in Front-end development
+- 👀 I’m interested in Software Development.
 - 🌱 I’m currently growing on React, Next.js
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me paulalaorga@gmail.com
