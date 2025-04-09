@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paulalaorga
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently growing on React, Next.js
-- 💞️ I’m looking to collaborate on any project 
+- 🌱 I’m currently growing on Python.
+- 💞️ MERN stack and Vue.js  
 - 📫 How to reach me paulalaorga@gmail.com
 
 <!---
