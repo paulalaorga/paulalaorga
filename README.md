@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulalaorga&label=Profile%20views&color=0e75b6&style=flat" alt="paulalaorga" /> </p>
+
 - 👋 Hi, I’m @paulalaorga
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently growing on Python.
