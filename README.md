@@ -1,19 +1,25 @@
 <h1 align="center">Hi 👋, I'm Paula Laorga</h1>
-<h3 align="center">A Software Developer @Thoughtworks</h3>
+<h3 align="center">Software Developer @ Thoughtworks | Building tech for public good</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulalaorga&label=Profile%20views&color=0e75b6&style=flat" alt="paulalaorga" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=paulalaorga&label=Profile%20views&color=0e75b6&style=flat" alt="paulalaorga" />
+</p>
 
-👀 I’m interested in Software Development, Public Technology, and AI for social good.
+---
 
-🌱 I’m currently growing on Python, JavaScript, and Java, with a focus on backend, data, and cloud technologies.
+👩‍💻 I'm a developer passionate about technology that makes a difference. I’m especially interested in **public tech**, **governance**, and **AI for social good**.
 
-💞️ I love building with the MERN stack, Vue.js, and exploring ethical hacking and cybersecurity (OWASP Top 10, pentesting).
+🔧 Currently sharpening my skills in **Python**, **JavaScript**, and **Java**, with a focus on **backend**, **data**, and **cloud technologies**.
 
-🧠 Passionate about transparency, algorithmic governance, and improving public administration with AI.
+🚀 I love working with the **MERN stack**, **Vue.js**, and diving into **ethical hacking** and **cybersecurity** (OWASP Top 10, pentesting practices).
 
-📚 Currently exploring Google Cloud & AWS certifications.
+🌐 I'm also exploring how to bring more **transparency** and **accountability** to public institutions through **algorithmic governance** and **digital innovation**.
 
-💌 Reach me at paulalaorga@gmail.com
+📚 Learning journey: preparing for **Google Cloud** and **AWS** certifications, and shaping a **PhD proposal** on AI and digital governance.
+
+📬 Want to connect or collaborate? Reach out at **paulalaorga@gmail.com**
+
+---
 
 <!---
 paulalaorga/paulalaorga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
