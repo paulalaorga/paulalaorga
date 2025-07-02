@@ -15,7 +15,7 @@
 
 🌐 I'm also exploring how to bring more **transparency** and **accountability** to public institutions through **algorithmic governance** and **digital innovation**.
 
-📚 Learning journey: preparing for **Google Cloud** and **AWS** certifications, and shaping a **PhD proposal** on AI and digital governance.
+📚 Preparing for **Google Cloud** and **AWS** certifications.
 
 📬 Want to connect or collaborate? Reach out at **paulalaorga@gmail.com**
 
