@@ -58,13 +58,13 @@
 
   <a href="https://github.com/paulalaorga">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulalaorga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulalaorga&layout=compact&langs_count=6&theme=radical&card_width=320" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulalaorga&layout=compact&langs_count=6&theme=dracula&card_width=320" />
   </a>
 
   <br/>
 
   <a href="https://github.com/paulalaorga">
-    <img src="https://streak-stats.demolab.com?user=paulalaorga&theme=tokyonight" alt="paulalaorga's streak stats" />
+    <img src="https://streak-stats.demolab.com?user=paulalaorga&theme=dracula" alt="paulalaorga's streak stats" />
   </a>
 
   <br/>
