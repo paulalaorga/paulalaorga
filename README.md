@@ -57,7 +57,7 @@
   <h2>📊 GitHub Stats</h2>
 
   <a href="https://github.com/paulalaorga">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulalaorga&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulalaorga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulalaorga&layout=compact&langs_count=6&theme=radical&card_width=320" />
   </a>
 
@@ -70,7 +70,7 @@
   <br/>
 
   <a href="https://github.com/paulalaorga">
-    <img src="https://github-readme-stats.vercel.app/api?username=paulalaorga&show_icons=true&theme=dracula" alt="GitHub Stats" />
+    <img src="https://github-profile-trophy.vercel.app/?username=paulalaorga&theme=dracula&column=7&margin-w=15&margin-h=15" alt="GitHub Stats" />
   </a>
 
 </div>
