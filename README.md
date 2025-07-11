@@ -64,7 +64,7 @@
   <br/>
 
   <a href="https://github.com/paulalaorga">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulalaorga&theme=tokyonight" alt="paulalaorga's streak stats" />
+    <img src="https://streak-stats.demolab.com?user=paulalaorga&theme=tokyonight" alt="paulalaorga's streak stats" />
   </a>
 
   <br/>
