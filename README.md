@@ -70,6 +70,7 @@
   <br/>
 
   <a href="https://github.com/paulalaorga">
-    <img src="https://github-profile-trophy.vercel.app/?username=paulalaorga&theme=dracula&column=7&margin-w=15&margin-h=15" alt="paulalaorga's trophies" />
+    <img src="https://github-readme-stats.vercel.app/api?username=paulalaorga&show_icons=true&theme=dracula" alt="GitHub Stats" />
   </a>
+
 </div>
